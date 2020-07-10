@@ -1,0 +1,7 @@
+.preview {
+  position: absolute;
+  box-shadow: 5px 5px 10px gray;
+  margin-left: 80px;
+  opacity: 0;
+  transition-duration: 0.5s;
+}

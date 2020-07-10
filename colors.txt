@@ -1,0 +1,3 @@
+normal     # 6625fd
+hover        # 511dc9
+pressed    # 511dc9
