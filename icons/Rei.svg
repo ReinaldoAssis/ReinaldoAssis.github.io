@@ -1,1 +1,22 @@
-<svg id="Camada_1" data-name="Camada 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 201.6 168.41"><defs><style>.cls-1{fill:#010101;fill-rule:evenodd;}.cls-2{font-size:86.01px;}.cls-2,.cls-3,.cls-4{fill:#1d1d1b;font-family:RussoOne-Regular, Russo One;}.cls-3{font-size:82.37px;}.cls-4{font-size:84.15px;}</style></defs><title>Rei</title><path class="cls-1" d="M61.78,23.92,81,43.17l19.49-19.49L120,43.17l19.24-19.24V60.12A12.23,12.23,0,0,1,127,72.35H74A12.23,12.23,0,0,1,61.78,60.12ZM131.1,43.56V60.12A4.08,4.08,0,0,1,127,64.2H74a4.08,4.08,0,0,1-4.08-4.08V43.56L81,54.65l19.49-19.49L120,54.65Z" transform="translate(-5)"/><text class="cls-2" transform="translate(9.93 144.41)">R</text><text class="cls-3" transform="matrix(-1, 0, 0, 1, 131.93, 143.08)">E</text><text class="cls-4" transform="translate(139.68 143.59) scale(1.02 1)">I </text><text class="cls-4" transform="translate(143.04 72.35) scale(1.02 1)">&gt;</text><text class="cls-4" transform="translate(0 71.53) scale(1.02 1)">&lt;</text></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 201.6 168.4" style="enable-background:new 0 0 201.6 168.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#1D1D1B;}
+	.st1{fill:#1D1D1B;}
+	.st2{font-family:'RussoOne-Regular';}
+	.st3{font-size:86.01px;}
+	.st4{font-size:82.37px;}
+	.st5{font-size:84.15px;}
+</style>
+<title>Rei</title>
+<path class="st0" d="M64.9,27.1l19.2,19.2l19.5-19.5l19.5,19.5l19.2-19.2v36.2c0,6.8-5.5,12.2-12.2,12.2c0,0,0,0,0,0h-53
+	c-6.8,0-12.2-5.5-12.2-12.2V27.1z M134.2,46.7v16.6c0,2.3-1.8,4.1-4.1,4.1c0,0,0,0,0,0h-53c-2.3,0-4.1-1.8-4.1-4.1v0V46.7l11.1,11.1
+	l19.5-19.5l19.5,19.5L134.2,46.7z"/>
+<text transform="matrix(1 0 0 1 18.0299 147.5701)" class="st1 st2 st3">R</text>
+<text transform="matrix(-1 0 0 1 140.0293 146.2401)" class="st1 st2 st4">E</text>
+<text transform="matrix(1.02 0 0 1 147.7801 146.75)" class="st1 st2 st5">I</text>
+<text transform="matrix(1.02 0 0 1 151.14 75.5098)" class="st1 st2 st5">&gt;</text>
+<text transform="matrix(1.02 0 0 1 8.0999 74.69)" class="st1 st2 st5">&lt;</text>
+</svg>
