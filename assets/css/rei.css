@@ -5,3 +5,7 @@
   opacity: 0;
   transition-duration: 0.5s;
 }
+
+#one {
+  padding: 10px;
+}
