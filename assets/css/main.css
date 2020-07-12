@@ -4044,7 +4044,7 @@ body.landing {
   background-attachment: fixed;
   background-image: url("images/overlay.png"), url("../../images/ban.jpg");
 
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   text-align: center;
 }
@@ -4187,8 +4187,8 @@ body.landing {
 }
 
 #banner .icon {
-  border-radius: 100%;
-  border: solid 2px #fff;
+  /*border-radius: 100%;
+  border: solid 2px #fff;*/
   color: #fff;
   display: inline-block;
   font-size: 3em;
