@@ -4045,6 +4045,7 @@ body.landing {
   background-image: url("images/overlay.png"),
     url("../../images/banner-crop.jpg");
   background-size: cover;
+  background-position: center;
   text-align: center;
 }
 
