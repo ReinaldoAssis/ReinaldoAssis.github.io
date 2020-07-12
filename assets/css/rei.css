@@ -9,3 +9,19 @@
 #one {
   padding: 10px;
 }
+
+@media screen and (max-width: 480px) {
+  .h2art {
+    margin-left: 0.3em;
+  }
+}
+
+@media screen and (min-width: 1400px) {
+  .h2art {
+    margin-left: 12em;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
